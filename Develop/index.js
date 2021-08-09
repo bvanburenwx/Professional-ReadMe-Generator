@@ -17,7 +17,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Installation',
+        name: 'installation',
         message: 'How is your project installed?',
     },
     {
@@ -42,12 +42,12 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'GitHub',
+        name: 'gitHub',
         message: 'Enter your GitHub username.',
     },
     {
         type: 'input', 
-        name: 'Email', 
+        name: 'email', 
         message: 'Enter email address',
     },
 ];
